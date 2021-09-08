@@ -1,4 +1,8 @@
-# ClientRoom
+# meeting-room-frontend
+
+Front End SPA written in Angular. The Back End that powers this application is an API:
+
+- [meeting-room-backend](https://github.com/genilton2528/meeting-room-backend)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.3.
 
